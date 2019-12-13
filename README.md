@@ -72,6 +72,7 @@ And finally compile with the *bash* script :
 ## Spring
 
 * [kata_spring_controller](https://github.com/WildCodeSchool/java-katas/tree/kata_spring_controller)
+* [kata_spring_dependency_injection](https://github.com/WildCodeSchool/java-katas/tree/kata_spring_dependency_injection)
 
 ## Binary
 
