@@ -69,6 +69,10 @@ And finally compile with the *bash* script :
 * TODO add pascal case
 * TODO censorship
 
+## Spring
+
+* [kata_spring_controller](https://github.com/WildCodeSchool/java-katas/tree/kata_spring_controller)
+
 ## Binary
 
 * [kata_binary_to_decimal](https://github.com/WildCodeSchool/java-katas/tree/kata_binary_to_decimal)
