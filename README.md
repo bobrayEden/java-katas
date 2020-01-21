@@ -66,8 +66,8 @@ And finally compile with the *bash* script :
 
 ## Stream
 
-* TODO add pascal case
-* TODO censorship
+* [kata_pascalcase](https://github.com/WildCodeSchool/java-katas/tree/kata_pascalcase)
+* [kata_censorship](https://github.com/WildCodeSchool/java-katas/tree/kata_censorship)
 
 ## Spring
 
