@@ -21,6 +21,7 @@ And finally compile with the *bash* script :
 
 * [kata_hello_you](https://github.com/WildCodeSchool/java-katas/tree/kata_hello_you)
 * [kata_fizzbuzz](https://github.com/WildCodeSchool/java-katas/tree/kata_fizzbuzz)
+* [kata_social_like](https://github.com/WildCodeSchool/java-katas/tree/kata_social_like)
 
 ## Array
 
