@@ -67,6 +67,7 @@ And finally compile with the *bash* script :
 
 ## Stream
 
+* [kata_only_odds](https://github.com/WildCodeSchool/java-katas/tree/kata_only_odds)
 * [kata_pascalcase](https://github.com/WildCodeSchool/java-katas/tree/kata_pascalcase)
 * [kata_censorship](https://github.com/WildCodeSchool/java-katas/tree/kata_censorship)
 
