@@ -27,6 +27,7 @@ And finally compile with the *bash* script :
 
 * [kata_found_min](https://github.com/WildCodeSchool/java-katas/tree/kata_found_min)
 * [kata_sum_of_odds](https://github.com/WildCodeSchool/java-katas/tree/kata_sum_of_odds)
+* [kata_invert_val](https://github.com/WildCodeSchool/java-katas/tree/kata_invert_val)
 * [kata_sort_array](https://github.com/WildCodeSchool/java-katas/tree/kata_sort_array)
 
 ## String
