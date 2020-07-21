@@ -34,6 +34,7 @@ And finally compile with the *bash* script :
 
 * [kata_count_letters](https://github.com/WildCodeSchool/java-katas/tree/kata_count_letters)
 * [kata_palindrome](https://github.com/WildCodeSchool/java-katas/tree/kata_palindrome)
+* [kata_duration](https://github.com/WildCodeSchool/java-katas/tree/kata_duration)
 * [kata_abbreviate_names](https://github.com/WildCodeSchool/java-katas/tree/kata_abbreviate_names)
 * [kata_string_compare](https://github.com/WildCodeSchool/java-katas/tree/kata_string_compare)
 
